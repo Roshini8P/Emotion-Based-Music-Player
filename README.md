@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎵 Emotion-Based Music Player with Quotes
 
 A desktop music player that matches songs and inspirational quotes to your current mood.
@@ -106,5 +106,4 @@ Edit the colour constants near the top of `player.py` (all caps variables under 
 | No sound on Linux | `sudo apt install libsdl2-mixer-2.0-0` |
 | No sound on macOS | Grant microphone/audio permissions in System Settings |
 =======
-# Emotion-Based-Music-Player
->>>>>>> 45f74efcdf992e0bafc09e39b4f371b06abb9dc7
+
